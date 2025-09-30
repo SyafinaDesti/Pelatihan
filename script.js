@@ -1,4 +1,4 @@
 const tombolSapa = document.getElementById('hi');
-tombolSapa.addEventListener('click',function(){
+tombolSapa.addEventListener('click', function(){
   alert('Yokoso!');
 });
